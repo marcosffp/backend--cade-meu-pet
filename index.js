@@ -13,6 +13,8 @@
 // Autor: Rommel Vieira Carneiro
 // Data: 03/10/2023
 
+//Reutilização por @marcosffp
+
 const jsonServer = require('json-server')
 const server = jsonServer.create()
 const router = jsonServer.router('./db/db.json')
