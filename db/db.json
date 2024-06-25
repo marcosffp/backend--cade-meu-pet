@@ -85,6 +85,14 @@
       "relatos": [],
       "animais_perdidos": [],
       "id": 4
+    },
+    {
+      "nome": "Alexandre",
+      "email": "righasalexandre@gmail.com",
+      "senha": "Galo@13",
+      "relatos": [],
+      "animais_perdidos": [],
+      "id": 5
     }
   ],
   "animais_perdidos": [
